@@ -1,4 +1,4 @@
-module ingormation
+module https://github.com/lexionq/ingormation
 
 go 1.23
 
