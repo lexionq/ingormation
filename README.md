@@ -8,7 +8,8 @@ Detailed system analysis tool for pentesters and everyday use. With developed Go
 </p>
 <p align="center">
   <img src="https://img.shields.io/github/go-mod/go-version/lexionq/ingormation?style=for-the-badge&color=darkblue">
-  <img src="https://goreportcard.com/badge/github.com/lexionq/ingormation?style=for-the-badge&logocolor=darkgreen">
+  <img src="https://goreportcard.com/badge/github.com/lexionq/ingormation?style=for-the-badge&color=purple">
+  <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/lexionq/ingormation/go.yml?style=for-the-badge&color=darkgreen">
 </p>
 
 ## Disclaimer
