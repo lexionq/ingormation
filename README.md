@@ -33,7 +33,7 @@ Detailed system analysis tool for pentesters and everyday use. With developed Go
 - Microcode
 - Family
 - Model
-- Model NAme
+- Model Name
 - Mhz
 - Physical ID & Vendor ID
 - CacheSize
