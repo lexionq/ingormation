@@ -1,5 +1,6 @@
 # ingormation
 Detailed system analysis tool for pentesters and everyday use. With developed Go. 🦫
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/4f062d07-a993-45f6-a99a-50b55490eec3" />
 
 <p align="center">
   <img src="https://img.shields.io/github/license/lexionq/ingormation?style=for-the-badge&color=blue">
